@@ -1,8 +1,11 @@
 # Astapenko Anton
 
 +375 (29) 5670711
+
 astapenko91@gmail.com
+
 Telegram: @Desento
+
 [Linkedin](https://www.linkedin.com/in/astapenko-anton-2abb8520a/)
 
 ### Desired position and salary:
@@ -20,11 +23,6 @@ Front-end developer (graduate)
 * Achievement: 
   * Project Implementation: Weather Forecast Website. 
   * Technologies used: React, TypeScript, Swiper Slider, SASS, Redux-saga ([GitHub]("My-weather-app"))
-
-### Professional development, courses
-TeachMeSkills
-TeachMeSkills, Front-end developer
-2022
 
 ### Languages:
 * "Russian — Native
