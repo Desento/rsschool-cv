@@ -1,1 +1,1 @@
-https://Desento.github.io/rsschool-cv/cv
+https://Desento.github.io/rsschool-cv/
